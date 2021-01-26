@@ -19,7 +19,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/Kandarp2014/);
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
+- 📝 I regulary write articles on [medium](https://medium.com/@kandarp.thakar2014);
 - 📫 How to reach me: kandarp.thakar2014@gmail.com;
 - 📝 [Resume]().
 
