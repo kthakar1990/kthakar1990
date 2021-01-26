@@ -11,17 +11,17 @@ I am a full-stack software engineer and writer. I love programming, writing, spe
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/kthakar1990/kthakar1990/blob/master/coding.gif?raw=true" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/Kandarp2014/);
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
-- 📫 How to reach me: gapur.kassym@gmail.com;
-- 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
+- 📫 How to reach me: kandarp.thakar2014@gmail.com;
+- 📝 [Resume]().
 
 </br>
 
@@ -29,7 +29,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--END_SECTION:waka-->
 
 📈 **My GitHub Stats:**
-
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kthakar1990&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kthakar1990&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
