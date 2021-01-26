@@ -7,12 +7,12 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kthakar1990.Kandarp-Thakar)
 
-• Innovative software engineer offering more than 6 years of experience in Application Development, Product Engineering and Result Driven Applied Research.
-• Contributed Software expertise in development and successful deployment of products through SDLC using Agile and Waterfall methodologies.
-• Experienced in Object Oriented Programming, Full Stack Development, Cloud Technologies, Web Services and Database Management ( SQL and NoSQL ).
-• Proficient in analyzing and translating business requirements to technical requirements, architecture and feasible software solution.
-• Collaborated closely with other team members to design and develop robust solutions.
-• Participated in a creative process called ‘Enterprise Design Thinking’ which includes architecture design and implementation of efficient and user-friendly software. 
+• Innovative software engineer offering more than 6 years of experience in Application Development, Product Engineering and Result Driven Applied Research. </br>
+• Contributed Software expertise in development and successful deployment of products through SDLC using Agile and Waterfall methodologies. </br>
+• Experienced in Object Oriented Programming, Full Stack Development, Cloud Technologies, Web Services and Database Management ( SQL and NoSQL ). </br>
+• Proficient in analyzing and translating business requirements to technical requirements, architecture and feasible software solution. </br>
+• Collaborated closely with other team members to design and develop robust solutions. </br>
+• Participated in a creative process called ‘Enterprise Design Thinking’ which includes architecture design and implementation of efficient and user-friendly software. </br>
 
 <img align="right" alt="GIF" src="https://github.com/kthakar1990/kthakar1990/blob/main/coding.gif?raw=true" width="408" height="318" />
   
