@@ -7,9 +7,12 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kthakar1990.Kandarp-Thakar)
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
-
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+• Innovative software engineer offering more than 6 years of experience in Application Development, Product Engineering and Result Driven Applied Research.
+• Contributed Software expertise in development and successful deployment of products through SDLC using Agile and Waterfall methodologies.
+• Experienced in Object Oriented Programming, Full Stack Development, Cloud Technologies, Web Services and Database Management ( SQL and NoSQL ).
+• Proficient in analyzing and translating business requirements to technical requirements, architecture and feasible software solution.
+• Collaborated closely with other team members to design and develop robust solutions.
+• Participated in a creative process called ‘Enterprise Design Thinking’ which includes architecture design and implementation of efficient and user-friendly software. 
 
 <img align="right" alt="GIF" src="https://github.com/kthakar1990/kthakar1990/blob/main/coding.gif?raw=true" width="408" height="318" />
   
