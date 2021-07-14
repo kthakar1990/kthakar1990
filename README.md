@@ -7,19 +7,19 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kthakar1990.Kandarp-Thakar)
 
-• Innovative software engineer offering more than 6 years of experience in Application Development, Product Engineering and Result Driven Applied Research. </br>
-• Contributed Software expertise in development and successful deployment of products through SDLC using Agile and Waterfall methodologies. </br>
-• Experienced in Object Oriented Programming, Full Stack Development, Cloud Technologies, Web Services and Database Management ( SQL and NoSQL ). </br>
-• Proficient in analyzing and translating business requirements to technical requirements, architecture and feasible software solution. </br>
-• Collaborated closely with other team members to design and develop robust solutions. </br>
-• Participated in a creative process called ‘Enterprise Design Thinking’ which includes architecture design and implementation of efficient and user-friendly software. </br>
+• Innovative Product Manager offering 7+ years of experience in various product and engineering leadership roles
+• Leading the IBM Security Offerings suite to achieve a high 7-figure revenue growth for the platform with the strategy to transform the digital user experience
+• Proficient in extracting and anticipating business requirements, converting those to technical requirements
+• Collaborated closely with cross-functional team members to deliver milestones that align with long term growth targets
+• Participated in a creative process called ‘EnterpriseDesign Thinking’ which includes architecture design and implementation of efficient and user-friendly software
+• Experienced in Go-to-market strategy, marketing, growth hacking, data insights, modeling, SaaS and cloud business models and Enterprise customer development </br>
 
 <img align="right" alt="GIF" src="https://github.com/kthakar1990/kthakar1990/blob/main/coding.gif?raw=true" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
+- 👨🏻‍💻 I’m currently working on increasing revenue for IBM Security products;
 - 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/Kandarp2014/). However, I also add my coding-practice solutions in javascript here [coding-practice](https://github.com/kthakar1990/coding-practice);
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I want to start writing articles on [medium](https://medium.com/@kandarp.thakar2014);
