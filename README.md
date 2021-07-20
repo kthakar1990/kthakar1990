@@ -8,12 +8,12 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kthakar1990.Kandarp-Thakar)
 
-• Innovative Product Manager offering 7+ years of experience in various product and engineering leadership roles </br>
+• Experienced Product Manager with 7+ years in numerous product and engineering leadership roles </br>
 • Leading the IBM Security Offerings suite to achieve a high 7-figure revenue growth for the platform with the strategy to transform the digital user experience </br>
 • Proficient in extracting and anticipating business requirements, converting those to technical requirements </br>
 • Collaborated closely with cross-functional team members to deliver milestones that align with long term growth targets </br>
-• Participated in a creative process called ‘EnterpriseDesign Thinking’ which includes architecture design and implementation of efficient and user-friendly software </br>
-• Experienced in Go-to-market strategy, marketing, growth hacking, data insights, modeling, SaaS and cloud business models and Enterprise customer development </br>
+• Earned the ‘IBM Enterprise Design Thinking’ badge, which teaches design research, prototyping, collaboration, scoping and storytelling for building enterprise grade software design and implementation </br>
+• Experienced in Go-to-market strategy, marketing, growth hacking, data insights, modeling, SaaS & cloud business models and enterprise customer development </br>
 
 <img align="right" alt="GIF" src="https://github.com/kthakar1990/kthakar1990/blob/main/coding.gif?raw=true" width="408" height="318" />
   
