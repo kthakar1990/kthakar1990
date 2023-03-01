@@ -20,7 +20,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on increasing revenue for IBM Security products;
+- 👨🏻‍💻 I’m currently working on increasing revenue for AWS Builders Experience Services;
 - 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/Kandarp2014/). However, I also add my coding-practice solutions in javascript here [coding-practice](https://github.com/kthakar1990/coding-practice);
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I want to start writing articles on [medium](https://medium.com/@kandarp.thakar2014);
